@@ -3,7 +3,7 @@
 
 My name is Edwige and I am learning Python and the Data Science Pipeline.
 
-I have been an Intelligence Analyst and a Finaincial analyst and Now I am a learning to code so that I can better combine big data with LLM.
+I have been an Intelligence Analyst and a Finaincial Analyst; Now I am a learning data science so that I can better combine big data with Large Language Models.
 <!--
 **eelysee/eelysee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
