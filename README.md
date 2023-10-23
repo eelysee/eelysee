@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 
-My name is Edwige and I am learning Python and the Data Science Pipeline.
+My name is Edwige and I am a data scientist.
 
-I have been an Intelligence Analyst and a Finaincial Analyst; Now I am a learning data science so that I can better combine big data with Large Language Models.
+I love dealing with big datasets and creating theoretical business/organizational design models using LLM's. 
+
+I am currently building deep learning models for sports data using pytorch.
+
 <!--
 **eelysee/eelysee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
