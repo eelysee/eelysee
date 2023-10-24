@@ -3,7 +3,7 @@
 
 My name is Edwige and I am a data scientist.
 
-I love dealing with big datasets and creating theoretical business/organizational design models using LLM's. 
+I love dealing with big datasets and creating theoretical business/organizational designs using LLM's. 
 
 I am currently building deep learning models for sports data using pytorch.
 
