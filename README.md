@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-My name is Edwige and I am a data scientist.
 
 I love dealing with big datasets and creating theoretical business/organizational designs using LLM's. 
 
