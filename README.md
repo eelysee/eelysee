@@ -2,7 +2,7 @@
 
 I love dealing with big datasets and creating theoretical business/organizational designs using LLM's. 
 
-I am currently building deep learning models for sports data using pytorch.
+I am currently building deep learning models for sports data using pytorch, and training machine learning models to develop custom recipes.
 
 <!--
 **eelysee/eelysee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
